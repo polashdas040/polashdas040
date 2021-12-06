@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Polash Chandra Das</h1>
-- 👨‍💻 All of my projects are available at [https://github.com/polashdas040](https://github.com/polashdas040)
+- 👨‍💻 All of my projects are available at [https://github.com/polashdas040]
 
 - 📝 My website [https://pcodep.com](https://pcodep.com)
 
